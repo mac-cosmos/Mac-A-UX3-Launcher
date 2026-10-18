@@ -1,5 +1,6 @@
-[README.md](https://github.com/user-attachments/files/33617737/README.md)
-
+<p align="center">
+  <img src="Mac A:UX3 Launcher Icon ARM.png" width="200" alt="Mac A-UX3 Launcher icon">
+</p>[README.md](https://github.com/user-attachments/files/33617737/README.md)
 
 <strong>Mac A-UX3 Launcher</strong>
 
